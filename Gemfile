@@ -5,7 +5,7 @@ gem 'minima'
 group :development, :test do
   gem 'wax_tasks'
   gem 'rspec'
-  gem 'selenium-webdriver'
+  gem 'selenium-webdriver', '3.9.0'
   gem 'chromedriver-helper'
   gem 'capybara'
   gem 'rack-jekyll'
